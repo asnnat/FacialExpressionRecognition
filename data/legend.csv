@@ -1,4 +1,4 @@
-user.id,image,emotion
+user_id,image,emotion
 628,facial-expressions_2868588k.jpg,anger
 628,facial-expressions_2868585k.jpg,surprise
 628,facial-expressions_2868584k.jpg,disgust

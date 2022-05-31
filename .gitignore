@@ -1,0 +1,4 @@
+neural_network/train/*
+neural_network/test/*
+.DS_Store
+neural_network/augmentation/*
